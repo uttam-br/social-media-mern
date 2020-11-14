@@ -1,0 +1,22 @@
+{
+  "name": "social-media-mern",
+  "version": "1.0.0",
+  "description": "Social media web application using MERN stack.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uttam-br/social-media-mern.git"
+  },
+  "author": "Uttam Rabari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uttam-br/social-media-mern/issues"
+  },
+  "homepage": "https://github.com/uttam-br/social-media-mern#readme",
+  "dependencies": {
+    "npm": "^6.14.8"
+  }
+}
