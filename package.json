@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/uttam-br/social-media-mern#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "npm": "^6.14.8"
   }
 }
